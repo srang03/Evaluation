@@ -1,0 +1,2 @@
+rootProject.name='text27'
+include ':app'
